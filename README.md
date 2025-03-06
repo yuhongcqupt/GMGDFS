@@ -11,4 +11,4 @@ Experimental environment: Intel(R) Core(TM) i9-10980XE CPU @ 3.00GHz, 128.0 GB R
 
 reference Haoran Liu, Hong Yu, Zuqiang Su, Guoyin Wang. Deep Fuzzy System with Gradual Multiple Granularity for Interpretable Multivariate Time Series Classification.
 
-This work has been submitted to International Journal of Fuzzy Systems. The code will be updated after the publication. 
+This work has been submitted to 2025 China Granular Computing and Knowledge Discovery Conference. The code will be updated after the publication.
